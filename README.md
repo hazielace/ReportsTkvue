@@ -4,5 +4,5 @@
 👉 [ReportesTkVue - GitHub Pages](https://hazielace.github.io/ReportsTkvue/)
 
 ## Credenciales para ingresar a la app
-email: admin@admin.com
-password: contraseña123
+- email: admin@admin.com
+- password: contraseña123
